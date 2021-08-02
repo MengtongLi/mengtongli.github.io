@@ -464,6 +464,10 @@ a {
   color: #111;
 }
 
+.nav.chinese {
+  font-family: 'Playfair Display', sans-serif;
+}
+
 .ui-works {
   padding: 5% 10%;
 }
@@ -1504,8 +1508,9 @@ a {
 }
 
 .image-19 {
+  display: block;
   max-width: 100%;
-  margin-right: 0%;
+  margin-right: auto;
   margin-left: auto;
   padding: 0%;
 }
